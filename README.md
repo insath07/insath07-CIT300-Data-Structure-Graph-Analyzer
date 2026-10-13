@@ -34,16 +34,16 @@ Linear search examines elements sequentially and has O(n) worst-case time. Binar
 | Option | Component | Responsibility / status |
 | --- | --- | --- |
 | 1 | Array Operations | S.M. Insath - available |
-| 2 | Stack Operations | N.D.F. Hainiya - pending |
-| 3 | Queue Operations | N.D.F. Hainiya - pending |
-| 4 | Linked List Operations | H.M. Harshad - pending |
+| 2 | Stack Operations | N.D.F. Hainiya -available |
+| 3 | Queue Operations | N.D.F. Hainiya - available |
+| 4 | Linked List Operations | H.M. Harshad - available |
 | 5 | Searching Operations | S.M. Insath - available |
-| 6 | Graph Operations, BFS, DFS | A.L.M. Arshad - pending |
-| 7 | Performance Comparison | Search comparison available; graph comparison pending |
-| 8 | Display All Results | Displays current array; full integration pending |
+| 6 | Graph Operations, BFS, DFS | A.L.M. Arshad - available |
+| 7 | Performance Comparison | Search comparison available; graph comparison Passed |
+| 8 | Display All Results | Displays current array; full integration passed |
 | 9 | Exit | Available |
 
-Pending module options display a clear message. No Stack, Queue, Linked List, or Graph implementation is included.
+Project Status: COMPLETED | ALL MODULES AVAILABLE | TESTING PASSED
 
 ## Compile and run in Windows PowerShell
 
